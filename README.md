@@ -41,4 +41,4 @@ One key observation I received was that the interface allowed users to navigate 
 Thanks to this feedback, I was able to review and revise the wireframe before moving into the production phase. I added clear "Back" or "Previous" navigation options, improving the overall flow and making the application more intuitive.
 
 **Conclusion**
-This experience demonstrated the value of wireframing in the software development process. It allowed me to identify and fix usability issues before any code was written, saving time and avoiding potential redesigns. I can confidently conclude that wireframing is a critical step in ensuring the final product is user-friendly, functional, and widely accepted by users.
+- This experience demonstrated the value of wireframing in the software development process. It allowed me to identify and fix usability issues before any code was written, saving time and avoiding potential redesigns. I can confidently conclude that wireframing is a critical step in ensuring the final product is user-friendly, functional, and widely accepted by users.
